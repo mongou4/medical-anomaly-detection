@@ -70,8 +70,8 @@ medical-anomaly-detection/
 
 | Stage | Description | Status |
 |---|---|---|
-| 1 | Repository setup | ✅ Done |
-| 2 | Z-score on synthetic data | 🔄 In progress |
+| 1 | Repository setup |  Done |
+| 2 | Z-score on synthetic data | Done|
 | 3 | Robust statistics (MAD) | ⏳ Planned |
 | 4 | Isolation Forest + comparison | ⏳ Planned |
 
