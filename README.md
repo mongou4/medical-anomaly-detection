@@ -73,7 +73,7 @@ medical-anomaly-detection/
 | 1 | Repository setup |  Done |
 | 2 | Z-score on synthetic data | Done|
 | 3 | Robust statistics (MAD) |Done |
-| 4 | Isolation Forest + comparison | Planned |
+| 4 | Isolation Forest + comparison | Done |
 
 ---
 
