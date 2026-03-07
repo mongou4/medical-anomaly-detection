@@ -1,4 +1,4 @@
-# Project Summary — Statistical Modelling and Anomaly Detection in Medical Data
+# Project Summary- Statistical Modelling and Anomaly Detection in Medical Data
 
 **Author:** Mongou Loic  
 **Type:** Learning and applied portfolio project  
